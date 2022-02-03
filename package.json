@@ -1,7 +1,7 @@
 {
   "name": "oyster-facts-api",
   "version": "1.0.0",
-  "description": "Oyster Facts",
+  "description": "A free API for random Oyster Facts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/starseed2021/oyster-facts-api.git"
   },
-  "author": "",
+  "author": "Tiffany Harper",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/starseed2021/oyster-facts-api/issues"
