@@ -1,0 +1,23 @@
+{
+  "name": "oyster-facts-api",
+  "version": "1.0.0",
+  "description": "Oyster Facts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starseed2021/oyster-facts-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starseed2021/oyster-facts-api/issues"
+  },
+  "homepage": "https://github.com/starseed2021/oyster-facts-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
