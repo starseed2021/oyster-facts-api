@@ -2,11 +2,11 @@
     "oysterFacts": [
         {
             "id": 0,
-            "fact": "Humans have been cultivating and eating oysters for thousands of years."
+            "fact": "Oyster consumption and cultivation by humans date back to about 164,000 years ago!"
         },
         {
             "id": 1,
-            "fact": "Oysters change their gender once or more during their lifetime."
+            "fact": "Oysters are intersexed, changing their gender up to four times a year."
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
         },
         {
             "id": 3,
-            "fact": "Similar to wine, oysters have a variety of flavor profiles."
+            "fact": "Like wine, oysters have a variety of flavor profiles."
         },
         {
             "id": 4,
@@ -22,11 +22,11 @@
         },
         {
             "id": 5,
-            "fact": "Legend holds that the Goddess of Love, Aphrodite, emerged from the sea in an oyster shell."
+            "fact": "Legend holds that the Greek Goddess of Love and Sex, Aphrodite, emerged from the sea in an oyster shell."
         },
         {
             "id": 6,
-            "fact": "Pearls are birthed from an oyster's reaction to irritants. It is the only gemstone to come from a living creature."
+            "fact": "Pearls are birthed from an oyster's reaction to irritants - nacre (a combination of calcium and protein). It is the only gemstone to come from a living creature."
         },
         {
             "id": 7,
@@ -50,7 +50,7 @@
         },
         {
             "id": 12,
-            "fact": "From the early 19th century and onwards, oysters sold tremendously from street vendors across New York, London, and Paris as they were a cheap and accessible snack for the working class."
+            "fact": "From the early 19th century and onwards, oysters were sold tremendously from street vendors across New York, London, and Paris as they were mainly the food of the poor and not the rich."
         },
         {
             "id": 13,
@@ -58,7 +58,7 @@
         },
         {
             "id": 14,
-            "fact": "Sergius Orata, a Roman hydraulic engineer, is credited as the inventor of oyster farming."
+            "fact": "Sergius Orata, a hydraulic engineer of the Roman Empire, is credited as the inventor of oyster farming."
         },
         {
             "id": 15,
@@ -66,7 +66,7 @@
         },
         {
             "id": 16,
-            "fact": "Oysters can live up to 20 years in captivity."
+            "fact": "Oysters becomes an adult when it turns one year old and can live up to 20 years old in the wild."
         },
         {
             "id": 17,
@@ -90,7 +90,7 @@
         },
         {
             "id": 22,
-            "fact": "It's the location that gives the oyster its flavor, not its species."
+            "fact": "It's the location, or 'merrior', that gives the oyster its flavor, not its species."
         },
         {
             "id": 23,
@@ -99,6 +99,66 @@
         {
             "id": 24,
             "fact": "The Guinness World Record for the most oysters eaten in 3 minutes is 233 set by Colin Shirlow from Hillsborough, UK on September 3, 2005!"
+        },
+        {
+            "id": 25,
+            "fact": "Most oysters found in restaurants are farmed."
+        },
+        {
+            "id": 26,
+            "fact": "Oysters are shaped by their beds."
+        },
+        {
+            "id": 27,
+            "fact": "During the 17th century, in Endinburgh, Scotland, oyster shells were used as fillers between brick and stone for erecting buildings."
+        },
+        {
+            "id": 28,
+            "fact": "Raw, grilled, fried, wrapped in bacon, mixed into dressing, in soup, casserole, or stew are just a few ways an oyster can be eaten."
+        },
+        {
+            "id": 29,
+            "fact": "The Luoyang Bridge in Quanzhou, China, built almost 1000 years ago, used breeding oysters to help cement the granite blocks together."
+        },
+        {
+            "id": 30,
+            "fact": "Baby oysters (less than 1 inch long) are called spat."
+        },
+        {
+            "id": 31,
+            "fact": "Oysters live in brackish and saltwater bays, estuaries, tidal creeks, shallow ocean areas, and intertidal zones—regions submerged at high tide and exposed at low tide."
+        },
+        {
+            "id": 32,
+            "fact": "The tiny crab we see in the oyster is a species of crab (Pinnotheres ostreum) that has evolved to live harmoniously inside an oyster’s shell. These dime-sized crabs, much sought after by gourmands, are not abundant."
+        },
+        {
+            "id": 33,
+            "fact": "Oysters help waterways by eating algae and phytoplankton, filtering out particulates and excess nutrients and creatin haitt for other organisms to thrive."
+        },
+        {
+            "id": 34,
+            "fact": "Oysters can hear low-frequency sounds, such as those made by ships, human-caused explosions, and wind turbines. These sounds causes them to clamp their shells closed to keep the sounds out."
+        },
+        {
+            "id": 35,
+            "fact": "Crushed oyster shells can play a valuable role in horticulture as a soil additive. They contain high quantities of calcium, which helps to balance pH levels in soil, improve fertilizer intake, and strengthen plant cell walls."
+        },
+        {
+            "id": 36,
+            "fact": "Oysters belong to the phylum Mollusca, with other invertebrates such as snails, squid, and octopi. Within Mollusca, they reside in the class bilvalvia, which also contains clams and mussels. A defining characteristic of bivalves is two shells hinged together with ligaments. Edible oysters belong to the order Ostreidae and are typically thought of as ‘true oysters’."
+        },
+        {
+            "id": 37,
+            "fact": "Thomas Downing, an African American, an abolitionist, and one of the wealthiest men in New York City was a famous oyster proprietor during the 1800s and is known for making oyster cellars 'respectabe' while it was heavily known as a poor person's food."
+        },
+        {
+            "id": 38,
+            "fact": "All oysters can be divided into four main groups: true oysters (that are part of the human diet), pearl oysters (those that produce pearls), thorny oysters (those with thorny shells) and saddle oysters (those with very thin shells)."
+        },
+        {
+            "id": 39,
+            "fact": "Very few oysters produce jewelry-quality pearls on their own; that usually requires a human prying open a cultivated oyster’s shell to insert a grain of sand or other seeding material."
         }
     ]
 }
